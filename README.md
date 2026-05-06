@@ -43,7 +43,8 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 
   #### 
 
-  ШО ТЫ ПЛАКИ ПЛАКИ?
+  Я ТЕБЕ ГОВОРИЛ НЕ ОТКРЫВАЙ!
+  тут и так нихуя
 
     
   </div>
