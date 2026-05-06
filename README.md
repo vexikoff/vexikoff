@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vexikoff/vexikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div>Welcome!</div>
+### - Frontend Developer
+### - ~2 year exp
+### [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,figma,nodejs,gcp,ae,ps,bash,blender,electron,git,github,md,npm,powershell,py,pytorch,tensorflow,unreal,vscode,windows)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I exist somewhere between code and creativity.  
+I produce music, design in Figma, build for the web, and sculpt in 3D.  
+Not a specialist — a creator who refuses to be just one thing.
+
+---
+
+```
+music production  ·  ui/ux design  ·  web development  ·  3d modeling
+```
+
+---
+
+### what i'm doing
+
+```bash
+> currently: leveling up in backend dev
+> always:    creating something
+> status:    somewhere between an idea and a finished project
+```
+
+---
+
+<sub>*"Every expert was once someone who just started."*</sub>
+
+</div>
+
+
+<details>
+  
+  <summary><strong>Обо мне</strong></summary>
+
+  <br />
+
+  <div>
+
+  #### 
+
+👋 Привет! я люблю играть в Minecraft ❤️. <br>
+💻 Frontend-разработчик с опытом больше года. <br>
+🎥 В свободное время смотрю Лололошку на YouTube. <br>
+🚀 Создаю проекты и постоянно учусь новому. <br>
+
+    
+  </div>
+
+</details>
