@@ -44,10 +44,7 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 
   #### 
 
-👋 Привет! я люблю играть в Minecraft ❤️. <br>
-💻 Frontend-разработчик с опытом больше года. <br>
-🎥 В свободное время смотрю Лололошку на YouTube. <br>
-🚀 Создаю проекты и постоянно учусь новому. <br>
+  ШО ТЫ ПЛАКИ ПЛАКИ?
 
     
   </div>
