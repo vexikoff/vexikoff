@@ -36,7 +36,7 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 
 <details>
   
-  <summary><strong>Обо мне</strong></summary>
+  <summary><strong>НЕ ОТКРЫВАТ!!!</strong></summary>
 
   <br />
 
