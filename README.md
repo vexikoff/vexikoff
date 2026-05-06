@@ -3,7 +3,7 @@
 ## <div>Welcome!</div>
 ### - Frontend Developer
 ### - ~2 year exp
-### [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,figma,nodejs,gcp,ae,ps,bash,blender,electron,git,github,md,npm,powershell,py,pytorch,tensorflow,unreal,vscode,windows)](https://skillicons.dev)
+### [![My Skills](https://skillicons.dev/icons?i=html,css,java,figma,gcp,ae,ps,bash,blender,electron,git,github,md,npm,powershell,py,pytorch,tensorflow,unreal,vscode,windows)](https://skillicons.dev)
 
 ---
 I exist somewhere between code and creativity.  
