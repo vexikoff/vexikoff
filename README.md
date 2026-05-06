@@ -29,7 +29,7 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 
 ---
 
-<sub>*"Every expert was once someone who just started."*</sub>
+<sub>"Every expert was once someone who just started."</sub>
 
 </div>
 
