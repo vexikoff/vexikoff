@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ## <div>Welcome!</div>
 ### - Frontend Developer
@@ -6,7 +6,7 @@
 ### [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,figma,nodejs,gcp,ae,ps,bash,blender,electron,git,github,md,npm,powershell,py,pytorch,tensorflow,unreal,vscode,windows)](https://skillicons.dev)
 
 ---
-
+<div align="center">
 I exist somewhere between code and creativity.  
 I produce music, design in Figma, build for the web, and sculpt in 3D.  
 Not a specialist — a creator who refuses to be just one thing.
