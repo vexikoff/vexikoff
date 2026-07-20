@@ -30,7 +30,11 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 
 <sub>Every expert was once someone who just started.</sub>
 
-![Snake, Bro](github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="Snake, Bro" src="github-snake.svg">
+</picture>
 
 </div>
 
