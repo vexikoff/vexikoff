@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vexikoff
+          gif_out_path: github-contribution-grid-snake.gif
+          svg_out_path: github-contribution-grid-snake.svg
+      - name: Push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add github-contribution-grid-snake.gif github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || exit 0
+          git push
