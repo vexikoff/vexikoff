@@ -28,7 +28,7 @@ jobs:
           
       - name: Fix SVG Border Radius
         run: |
-          sed -i 's|<svg |<svg style="border-radius:32px;overflow:hidden;" |g' profile-3d-contrib/*.svg
+          sed -i 's|<svg |<svg style="border-radius: 8px; overflow:hidden;" |g' profile-3d-contrib/*.svg
 
       - name: Push updates
         run: |
