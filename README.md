@@ -36,7 +36,7 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
   <img alt="3d, Bro" src="profile-3d-contrib/profile-season-animate.svg">
 </picture>
 
-<picture>
+<picture style="border-radius: 32px; overflow: hidden;">
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="Snake, Bro" src="github-snake.svg">
