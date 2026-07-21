@@ -1,0 +1,40 @@
+name: GitHub 3d contrib
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution 3d panel
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          github_user_name: vexikoff
+          outputs: |
+            github-cont.svg
+            github-cont-dark.svg?palette=github-dark
+            ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
+          git add github-cont.svg github-cont-dark.svg ocean.gif
+          git commit -m "Update 3d [skip ci]" || exit 0
+          git push
