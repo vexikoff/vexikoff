@@ -31,6 +31,12 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 <sub>Every expert was once someone who just started.</sub>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3d, Bro" src="profile-3d-contrib/profile-season-animate.svg">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="Snake, Bro" src="github-snake.svg">
