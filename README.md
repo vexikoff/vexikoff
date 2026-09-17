@@ -1,5 +1,3 @@
-https://vexikoff.xyz
-
 ## <div>Welcome!</div>
 ### - Frontend Developer
 ### - ~2 year exp
