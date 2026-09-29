@@ -3,9 +3,6 @@
 ### - ~2 year exp
 ### [![My Skills](https://skillicons.dev/icons?i=html,css,java,figma,gcp,ae,ps,bash,blender,electron,git,github,md,npm,powershell,py,pytorch,tensorflow,unreal,vscode,windows,c)](https://skillicons.dev)
 
-https://github.com/sputnikdark - Fucking vibecoder, he's too lazy to even fucking upload a project
--rep
-
 ---
 I exist somewhere between code and creativity.  
 I produce music, design in Figma, build for the web, and sculpt in 3D.  
@@ -64,3 +61,6 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
   </div>
 
 </details>
+
+https://github.com/sputnikdark - Fucking vibecoder, he's too lazy to even fucking upload a project
+-rep
