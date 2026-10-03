@@ -8,6 +8,8 @@ I exist somewhere between code and creativity.
 I produce music, design in Figma, build for the web, and sculpt in 3D.  
 Not a specialist — a creator who refuses to be just one thing.
 Against vibecoding. Against AI. Against. AGAINST!
+for doing everything on your own.
+you didn't write it, the code isn't yours.
 
 ---
 
@@ -64,3 +66,5 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 
 https://github.com/sputnikdark - Fucking vibecoder, he's too lazy to even fucking upload a project
 -rep
+
+If you're reading this and using AI, I fucked your ...
