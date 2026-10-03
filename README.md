@@ -22,7 +22,7 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 ### what i'm doing
 
 ```bash
-> currently: leveling up in backend dev
+> currently: leveling up in c++
 > always:    creating something
 > status:    somewhere between an idea and a finished project
 ```
