@@ -73,7 +73,7 @@ If you're reading this and using AI, I ... your ...
 
 You can't call code your own if you didn't write it.
 It's fine if you took -2 lines of AI's 250 lines and fixed a bug you can't fix and can't find anyone to fix it, fine.
-Writing -1-% of your code using AI is cringe. Using agents is cringe.
+Writing -1+% of your code using AI is cringe. Using agents is cringe.
 
 final
 Better yet, delete the agent, cancel the subscription, and learn programming languages, don't kick the dick.
