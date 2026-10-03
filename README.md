@@ -67,4 +67,10 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 https://github.com/sputnikdark - Fucking vibecoder, he's too lazy to even fucking upload a project
 -rep
 
-If you're reading this and using AI, I fucked your ...
+If you're reading this and using AI, I ... your ...
+
+# for vibecoders epta
+
+You can't call code your own if you didn't write it.
+It's fine if you took 5 lines of AI's 250 lines and fixed a bug you can't fix and can't find anyone to fix it, fine.
+Writing 10+% of your code using AI is cringe. Using agents is cringe.
