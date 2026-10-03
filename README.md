@@ -7,7 +7,7 @@
 I exist somewhere between code and creativity.  
 I produce music, design in Figma, build for the web, and sculpt in 3D.  
 Not a specialist — a creator who refuses to be just one thing.
-Against vibecoding
+Against vibecoding. Against AI. Against. AGAINST!
 
 ---
 
