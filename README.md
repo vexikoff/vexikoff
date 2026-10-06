@@ -77,3 +77,5 @@ Writing 5+% of your code using AI is cringe. Using agents is cringe.
 
 final
 Better yet, delete the agent, cancel the subscription, and learn programming languages, don't kick the dick.
+
+Having worked extensively with AI, I can say that over the last five years, it won't replace humans. It will only replace fortune tellers, at most.
