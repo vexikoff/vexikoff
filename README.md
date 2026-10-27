@@ -72,7 +72,7 @@ If you're reading this and using AI, I ... your ...
 # for vibecoders epta
 
 You can't call code your own if you didn't write it.
-It's fine if you took 7 lines of AI's 250 lines and fixed a bug you can't fix and can't find anyone to fix it, fine.
+It's fine if you took 100 lines of AI's 250 lines and fixed a bug you can't fix and can't find anyone to fix it, fine.
 Writing 5+% of your code using AI is cringe. Using agents is cringe.
 
 final
