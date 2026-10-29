@@ -3,6 +3,8 @@
 ### - ~2 year exp
 ### [![My Skills](https://skillicons.dev/icons?i=html,css,java,figma,gcp,ae,ps,bash,blender,electron,git,github,md,npm,powershell,py,pytorch,tensorflow,unreal,vscode,windows,c)](https://skillicons.dev)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=1500&pause=3000&color=6C00F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=vexikoff)](https://vexikoff.xyz/)
+
 ---
 I exist somewhere between code and creativity.  
 I produce music, design in Figma, build for the web, and sculpt in 3D.  
@@ -80,4 +82,4 @@ Better yet, delete the agent, cancel the subscription, and learn programming lan
 
 Having worked extensively with AI, I can say that over the last five years, it won't replace humans. It will only replace fortune tellers, at most.
 
-https://count.getloli.com/@GitHub_vexikoff?name=GitHub_vexikoff&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1
+[![Typing SVG](https://count.getloli.com/@GitHub_vexikoff?name=GitHub_vexikoff&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://vexikoff.xyz/)
