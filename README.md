@@ -2,8 +2,6 @@
 
 Visitor counter
 [![Typing SVG](https://count.getloli.com/@GitHub_vexikoff?name=GitHub_vexikoff&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://vexikoff.xyz/)
-<br><br>
-[![Site](https://img.shields.io/badge/Open_site-8A2BE2)](https://vexikoff.xyz/)
 
 ## <div>Welcome!</div>
 ### - Frontend Developer
