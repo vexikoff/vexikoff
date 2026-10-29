@@ -80,4 +80,4 @@ Better yet, delete the agent, cancel the subscription, and learn programming lan
 
 Having worked extensively with AI, I can say that over the last five years, it won't replace humans. It will only replace fortune tellers, at most.
 
-https://count.getloli.com/@GitHub_vexikoff?name=GitHub_vexikoff&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1
+https://count.getloli.com/@GitHub_vexikoff?name=GitHub_vexikoff&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1
