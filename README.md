@@ -1,3 +1,7 @@
+
+
+[![Typing SVG](https://count.getloli.com/@GitHub_vexikoff?name=GitHub_vexikoff&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://vexikoff.xyz/)
+
 ## <div>Welcome!</div>
 ### - Frontend Developer
 ### - ~2 year exp
@@ -81,5 +85,3 @@ final
 Better yet, delete the agent, cancel the subscription, and learn programming languages, don't kick the dick.
 
 Having worked extensively with AI, I can say that over the last five years, it won't replace humans. It will only replace fortune tellers, at most.
-
-[![Typing SVG](https://count.getloli.com/@GitHub_vexikoff?name=GitHub_vexikoff&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://vexikoff.xyz/)
