@@ -6,8 +6,8 @@ Visitor counter
 [![registred](https://mynickname.com/forum4t4/vexikoff.gif)](https://vexikoff.xyz/)
 
 ## <div>Welcome!</div>
-### - Frontend Developer
-### - ~2 year exp
+### - Frontend Web and Desktop Apps Developer
+### - ~2.5 year exp in web, python
 ### [![My Skills](https://skillicons.dev/icons?i=html,css,java,figma,gcp,ae,ps,bash,blender,electron,git,github,md,npm,powershell,py,pytorch,tensorflow,unreal,vscode,windows,c,js,cs)](https://skillicons.dev)
 
 ---
@@ -71,18 +71,20 @@ music production  ·  ui/ux design  ·  web development  ·  3d modeling
 
 </details>
 
-https://github.com/sputnikdark - Fucking vibecoder, he's too lazy to even fucking upload a project
--rep
 
-If you're reading this and using AI, I ... your ...
+# Top Activity Projects
 
-# for vibecoders epta
+## 1. [Youhe Bain 1: Others' Circumstances](https://github.com/vexikoff/youhebain1)
+You are an ordinary person trying to survive in a world of absurd corporations, persistent scammers, and bizarre phone calls. Your goal is simple: earn points, keep your sanity intact, and stay out of trouble.
 
-You can't call code your own if you didn't write it.
-It's fine if you took 100 lines of AI's 250 lines and fixed a bug you can't fix and can't find anyone to fix it, fine.
-Writing 50+% of your code using AI is cringe. Using agents is cringe.
+When a mysterious hacker named Tolya appears on the scene, you are faced with a choice: remain safe, or enter the world of shadowy scams—where a single mistake could cost you everything.
 
-final
-Better yet, delete the agent, cancel the subscription, and learn programming languages, don't kick the dick.
+Genre: Text-based thriller / Survival simulator / Crime drama. Playtime: 45–60 minutes (per playthrough). Number of endings: 5 unique conclusions.
 
-Having worked extensively with AI, I can say that over the last five years, it won't replace humans. It will only replace fortune tellers, at most.
+### 2. [Parnasocial](https://github.com/vexikoff/parnasocial)
+A Windows desktop media player project in early development.
+
+The goal is a local-first player: no account, no cloud, no telemetry. The current state is an interface prototype. Media playback, folder scanning, playlist management, and full settings are not implemented yet.
+
+### 3. [MicroCut](https://github.com/vexikoff/microcut)
+Screenshot hub, coming soon...
