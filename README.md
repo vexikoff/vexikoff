@@ -32,7 +32,7 @@ When a mysterious hacker named Tolya appears on the scene, you are faced with a 
 
 Genre: Text-based thriller / Survival simulator / Crime drama. Playtime: 45–60 minutes (per playthrough). Number of endings: 5 unique conclusions.
 
-### 2. [Parnasocial](https://github.com/vexikoff/parnasocial)
+### 2. [Parnasocial](https://parnasocial.vexikoff.xyz/)
 A Windows desktop media player project in early development.
 
 The goal is a local-first player: no account, no cloud, no telemetry. The current state is an interface prototype. Media playback, folder scanning, playlist management, and full settings are not implemented yet.
